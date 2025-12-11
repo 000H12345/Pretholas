@@ -1,0 +1,21 @@
+# Pretholas – Loja de Material Desportivo
+
+Esta é a versão do site Pretholas, loja online de material desportivo.
+
+## 📦 O que contém o projeto
+- Homepage com lista de produtos (camisetas, bolas, coletes, caneleiras, bolas de basquetebol, cones)  
+- Tema verde-escuro, com opção de alternar tema claro/escuro  
+- Sistema de carrinho simples (adicionar produtos)  
+- Botão “Pagar via M-Pesa” — com instruções para pagamento manual  
+- Botão “Fazer pedido pelo WhatsApp” — envia os detalhes do pedido via mensagem  
+
+## 🛠️ Pré-requisitos
+- Node.js + npm (para rodar localmente)  
+- Conta no Netlify (opcional — para deploy)  
+
+## 🚀 Como testar localmente
+1. Clone o repositório  
+2. No terminal, dentro da pasta do projeto:  
+   ```bash
+   npm install
+   npm start
